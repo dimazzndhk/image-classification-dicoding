@@ -1,2 +1,2 @@
-# image-classification-dicoding
-This repository contains my final project for the Dicoding course on Image Classification. The project focuses on implementing deep learning techniques to perform an image classification task. In this project, I used a dataset to classify garbages into 10 categories. 
+# Image Classification Final Project Dicoding Course
+This repository contains my final project for the Dicoding course on Image Classification. The project focuses on implementing deep learning techniques to perform an image classification task. In this project, I used a dataset to classify garbages into 10 categories. For the model, I utilized a pretrained DenseNet201 layer and built the architecture using a Sequential model. Additionally, the project also focuses on saving the trained model in various formats, such as SavedModel, TF-Lite, and TFJS, making it deployable across different platforms and applications."
